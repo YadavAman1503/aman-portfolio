@@ -1,27 +1,28 @@
 # Aman Yadav Portfolio
 
-A single-page portfolio website for Aman Yadav, designed for internship and job opportunities in AI/ML, cybersecurity, Python development, and web development.
+A personal portfolio website built with React and Vite for internship and project opportunities in AI/ML, cybersecurity, Python, and full-stack development.
 
-This project is a personal portfolio built with React and Vite. It presents a short introduction, core technical skills, featured project highlights, and contact details for recruiters and collaborators.
+This project presents a concise profile, core technical skills, featured work, and contact details in a dark cyberpunk-inspired layout.
 
 ## Who this site is for
 
-This site is intended for:
+This portfolio is intended for:
 
-- internship and job recruiters
-- collaborators looking for AI, cybersecurity, or software development work
-- people reviewing Aman Yadav's technical background and project interests
+- recruiters and hiring managers
+- internship coordinators
+- collaborators interested in AI, cybersecurity, and software engineering
+- anyone reviewing Aman Yadav's technical direction and project work
 
 ## Features
 
 The current site includes:
 
-- a dark, neon-themed landing page
-- an introductory hero section with profile image and summary
-- an About section describing skills and background
-- a Featured Projects section listing project work and technologies
-- a Skills/Tech Stack section
-- a Contact section with email and location
+- a dark neon-styled landing page
+- hero section with profile image, title, and summary
+- About section with background and interests
+- Featured Projects section with project descriptions and technologies
+- Skills / Tech Stack section
+- Contact section with email and location
 
 ## Tech stack
 
@@ -31,54 +32,59 @@ This project uses:
 - Vite 8
 - Tailwind CSS 4
 - ESLint
-- @vitejs/plugin-react
+- JavaScript
 
 ## Getting started
 
 1. Install dependencies:
+
    ```bash
    npm install
    ```
 
-2. Start the dev server:
+2. Start the development server:
+
    ```bash
    npm run dev
    ```
 
 3. Build the production bundle:
+
    ```bash
    npm run build
    ```
 
 4. Optional lint check:
+
    ```bash
    npm run lint
    ```
 
 ## Screenshots
 
-- TODO: Add project screenshot here.
-- TODO: Add portfolio hero image or full-page preview here.
+- TODO: Add a hero screenshot here.
+- TODO: Add a full-page portfolio screenshot here.
 
 ## What this site demonstrates
 
 This portfolio demonstrates:
 
-- a React-based front-end layout
-- responsive single-page portfolio design
-- clear presentation of projects and technical skills
-- a personal branding page for internship applications
+- a React-based single-page portfolio layout
+- responsive front-end design
+- structured presentation of projects and technical skills
+- a personal portfolio identity for internship applications
 
 ## Known limitations
 
-- There are no automated tests in the repository yet.
-- The portfolio is a static front-end and does not include a live backend or database.
-- The README uses placeholder values for live demo and screenshots.
-- There is no production deployment configuration checked into the repo.
+- There are no automated tests yet.
+- This is a static front-end portfolio and does not include a backend service.
+- The live demo URL is not set yet.
+- Screenshots are placeholders until the final portfolio visuals are added.
+- There is no deployment configuration in the repo yet.
 
 ## Project structure
 
-- `src/App.jsx` contains the portfolio content and structure.
-- `src/index.css` imports Tailwind.
-- `public/` stores static assets such as the profile image.
-- `package.json` defines the project scripts and dependencies.
+- `src/App.jsx` contains the page layout and portfolio copy.
+- `src/index.css` imports Tailwind CSS.
+- `public/` contains static assets such as the profile image.
+- `package.json` defines the scripts and dependencies.
